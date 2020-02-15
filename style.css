@@ -1,0 +1,13 @@
+html {background-color: #EBEBE7;}
+h1, h2, p {font-family: 'Roboto-light', sans-serif;}
+a {text-decoration: none;}
+li {list-style-type: none;}
+#header {position: static;}
+#header nav {float: right;margin: -200px 40px 0 0;height: 94px;}
+#header nav ul li {padding: 15px;float: left;margin-right: 16px;margin-top: 115px;}
+#Produkt1 {float: left;}
+#Produkt1 h1 {margin-left: 75px;}
+nav a {color: white;padding: 30px;}
+nav li  {border: 1.5px solid;background-color: #322C2A;padding: 0;}
+#Mainpart h1 {width: 337px;margin-top: 0;margin-bottom: 0;float:left;margin-left: 750px;}
+p#P-Home-main {float: none;margin-left: 0;padding: 50px;width: 988px;padding-left: 340px;}
