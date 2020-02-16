@@ -1,10 +1,11 @@
-html {background-color: #EBEBE7;}
+html {background-color: White;}
 h1, h2, p {font-family: 'Roboto-light', sans-serif;}
+section {min-height: 900px;}
 a {text-decoration: none;}
 li {list-style-type: none;}
-#header {position: static;}
+#header {position: fixed;}
 #header nav {float: right;margin: -200px 40px 0 0;height: 94px;}
-#header nav ul li {padding: 15px;float: left;margin-right: 16px;margin-top: 115px;}
+#header nav ul li {padding: 15px;float: left;margin-right: 16px;margin-top: 115px;text-transform: uppercase;border-radius: 25px;}
 #Produkt1 {float: left;}
 #Produkt1 h1 {margin-left: 75px;}
 nav a {color: white;padding: 30px;}
