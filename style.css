@@ -15,3 +15,6 @@ div#Windows10ProDiv img {width: 600px;height: 600px;float:left;margin-left: 0px;
 div#OfficeDiv img {width: 600px;height: 600px;margin-left: 50px;}
 div#OfficeDiv {width: 1311px;}
 div#McAffeeDiv img {width: 600px;height: 600px;float:right;margin-top: -602px;}
+#McAffeeDiv img:hover {transform: scale(1.1);-webkit-transform: scale(1.1);-moz-transform: scale(1.1);-o-transform: scale(1.1);}
+#Windows10ProDiv img:hover {transform: scale(1.1);-webkit-transform: scale(1.1);-moz-transform: scale(1.1);-o-transform: scale(1.1);}
+#OfficeDiv img:hover {transform: scale(1.1);-webkit-transform: scale(1.1);-moz-transform: scale(1.1);-o-transform: scale(1.1);}
